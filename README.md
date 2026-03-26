@@ -4,6 +4,8 @@ This project analyzes the AdventureWorks OLTP dataset to uncover revenue drivers
 - Identified that 10% of customers drive 68% of revenue
 - Discovered 21% of products are loss-making
 - Revealed B2B channel generates ~75% of total revenue with 20× higher AOV
+
+See full insights here: [insights.md](insights.md)
 ## 🏢 Business Context
 This project simulates a real-world business scenario in which a data analyst supports decision-making across sales, product, and customer strategy within a retail/manufacturing company.
 ## 🎯 Objectives
