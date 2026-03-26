@@ -1,4 +1,4 @@
-# AdventureWorks OLTP — SQL Data Analysis
+# AdventureWorks OLTP - SQL Data Analysis
 This project analyzes the AdventureWorks OLTP dataset to uncover revenue drivers, identify profit leakage, and segment customers for strategic decision-making.
 **Key highlights:**
 - Identified that 10% of customers drive 68% of revenue
